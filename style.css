@@ -3,6 +3,7 @@ h1{
 }
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 .name-highlight{
     color: orange;
@@ -15,4 +16,35 @@ body{
 }
 .half-well img{
     width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    fornt font-weight: 700;
+
+}
+.half-welll img{
+    width: 100%;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.dream-job{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
