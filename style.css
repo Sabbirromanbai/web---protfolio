@@ -48,3 +48,25 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(to bottom,lightsalmon, tomato) 1;
+}
+#frontend{
+    border-left: 5px solid;
+    border-image: linear-gradient(to bottom,blue, cyan) 1;
+}
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    fornt-size: 12px;
+}
